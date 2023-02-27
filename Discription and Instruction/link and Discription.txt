@@ -1,8 +1,8 @@
-Presented by..
+Contributers :
 
-ranjeeta kaur   023-19-0104
-kanchan kataria 023-19-0033
-prem sagar      023-19-0039 
+1. Ranjeeta Kaur
+2. Kanchan Kataria
+3. Prem Sagar
 
 
 
@@ -10,11 +10,6 @@ prem sagar      023-19-0039
 LINK TO VIDEO...
 
 https://drive.google.com/file/d/10jtWna1PTNh6mwdc6V9UfyNLz1IaCUi_/view?usp=sharing
-
-
-Link To GitHub..
-
-https://github.com/ranjeeta17/Phone-Book-Application.git
 
 
 
